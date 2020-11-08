@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages { Siyabonga Dlamini}
 
 You can use the [editor on GitHub](https://github.com/focusOnCoding/markdown-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### header 10
 
 - Bulleted
 - List
