@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Cant hate me
+2. Memory
+3. anti Fregal
