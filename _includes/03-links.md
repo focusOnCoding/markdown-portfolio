@@ -1,2 +1,2 @@
-[google url] (https://google.com)
+[google url] https://google.com
 
